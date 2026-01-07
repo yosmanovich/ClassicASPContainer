@@ -26,7 +26,7 @@ however it could also be extended to report if the application's
 database connection is healthy as well as any other checks needed to
 ensure that the application is functional
 
-![](media/image1.png){width="1.90625in" height="1.3125in"}
+![](media/image1.png)
 
 ## Container Image
 
